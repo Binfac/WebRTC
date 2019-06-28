@@ -1,0 +1,6 @@
+{
+  "name": "binfac-apprtc",
+  "description": "Binfac Nodejs based AppRTC server",
+  "keywords": ["node", "webrtc", "apprtc"],
+  "image": "heroku/nodejs"
+}
